@@ -1,0 +1,1 @@
+将DP_RS_SG_TOP1改为类似DP_RS_LG_TOP1的算法，即团操作，核心代码100行，比DP_RS_SG_TOP1少了150行代码
